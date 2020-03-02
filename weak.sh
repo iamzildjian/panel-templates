@@ -8,7 +8,7 @@ cd ~
 mkdir Sleak
 cd Sleak
 rm -rf *
-wget https://www.dropbox.com/s/7ceuxjl9cv7t9j0/wekaya.tgz?dl=1 && tar zxvf wekaya.tgz
+wget https://github.com/iamzildjian/panel-templates/raw/master/wekaya.tgz && tar zxvf wekaya.tgz
 mv asset /home/panel/html
 mv view /home/panel/html
 echo "Enjoy using Premium Template -Sleak"
